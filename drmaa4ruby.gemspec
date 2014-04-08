@@ -4,7 +4,8 @@ Gem::Specification.new do |gem|
   gem.date      = Date.today.to_s
 
   gem.summary     = 'DRMAA v1 interface'
-  gem.description = 'An interfaces for talking to DRMAA v1 compatible job scheduling systems'
+  gem.description = 'An interface for talking to DRMAA v1 compatible job scheduling systems'
+  gem.license     = 'SISSL-1.2'
 
   gem.authors  = ['Andrew Beresford', 'Chris Young']
   gem.email    = 'beezly@beez.ly'
