@@ -36,9 +36,7 @@
 #
 #
 
-require 'dl/import'
 require 'ffi'
-require 'pp'
 
 module FFI_DRMAA
     extend FFI::Library
